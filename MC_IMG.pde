@@ -185,8 +185,8 @@ String[] commandColorNames = {"grass_block",
 int[] materialsUsed = new int[colors.length];
 
 PImage originalImg; // image to MC-ify
-String image = "joker shark.jpg"; // name of image
-float scale = 5; // scale to display image (DOES NOT AFFECT ACTUAL IMAGE, ONLY WHAT IS SHOWN WHEN PROGRAM IS DONE)
+String image = ".jpg"; // name of image
+float scale = 1; // scale to display image (DOES NOT AFFECT ACTUAL IMAGE, ONLY WHAT IS SHOWN WHEN PROGRAM IS DONE)
 boolean use3d = false; // if true, blocks will be on different y layers; otherwise, all the blocks will be on one layer
 
 float redBias = 0.3; // influence of red value in closest color subprogram (default value 0.3)
