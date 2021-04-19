@@ -7,5 +7,5 @@ This file contains an ordered list of blocks. If you're using the original versi
 ## commands.txt
 This file contains several commands. To use this file, copy paste each command one at a time (they're separated by newlines) into command blocks and power them, then break the redstone block. Repeat until the image is complete!
 
-## XXXXX.mcfunction
+## <image file name>.mcfunction
 This file is a test to see if I can convert the placing of blocks into a built-in MCFunction file for ease of placement. Currently it doesn't work, but it will in the future! :)
